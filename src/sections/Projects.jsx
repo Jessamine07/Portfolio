@@ -67,8 +67,6 @@ import image62 from "@/assets/image62.jpg";
 import image63 from "@/assets/image63.jpg";
 import image64 from "@/assets/image64.jpg";
 import image65 from "@/assets/image65.jpg";
-import image66 from "@/assets/image66.jpg";
-import image67 from "@/assets/image67.jpg";
 import image68 from "@/assets/image68.jpg";
 import image69 from "@/assets/image69.jpg";
 import image70 from "@/assets/image70.jpg";
@@ -255,8 +253,6 @@ const projects = [
       image63,
       image64,
       image65,
-      image66,
-      image67,
       image68,
       image69,
       image70,
@@ -283,8 +279,6 @@ const projects = [
       "Morning View at Vista Suites Panglao",
       "First Breakfast at Vista Suites Panglao",
       "On the way to T.A.R.S.I.E.R. 117",
-      "Tagbilaran 911",
-      "Tagbilaran 911",
       "Tagbilaran 911",
       "Chocolate Hills",
       "Chocolate Hills",
